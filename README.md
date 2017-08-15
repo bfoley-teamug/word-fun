@@ -1,0 +1,1 @@
+this mini project takes basic JS algorithms and plays around with words users enter. This includes the reverse method, a pig latin algorithm, and the Name Game Song https://en.wikipedia.org/wiki/The_Name_Game. 
